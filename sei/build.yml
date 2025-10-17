@@ -6,7 +6,7 @@ services:
         PROJECT: sei
         PROJECT_BIN: seid
         PROJECT_DIR: .sei
-        VERSION: v5.7.5
+        VERSION: v6.1.4
         REPOSITORY: https://github.com/sei-protocol/sei-chain
         GOLANG_VERSION: 1.22
     ports:

@@ -103,7 +103,7 @@ tagged with the form `$COSMOS_OMNIBUS_VERSION-$PROJECT-$PROJECT_VERSION`.
 |[persistence](https://github.com/persistenceOne/persistenceCore)|`v10.3.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-persistence-v10.3.0`|[Example](./persistence)|
 |[regen](https://github.com/regen-network/regen-ledger)|`v6.0.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-regen-v6.0.0`|[Example](./regen)|
 |[rizon](https://github.com/rizon-world/rizon)|`v0.4.1`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-rizon-v0.4.1`|[Example](./rizon)|
-|[sei](https://github.com/sei-protocol/sei-chain)|`v5.7.5`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-sei-v5.7.5`|[Example](./sei)|
+|[sei](https://github.com/sei-protocol/sei-chain)|`v6.1.4`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-sei-v6.1.4`|[Example](./sei)|
 |[sentinel](https://github.com/sentinel-official/hub)|`v0.11.5`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-sentinel-v0.11.5`|[Example](./sentinel)|
 |[shentu](https://github.com/certikfoundation/shentu)|`v2.11.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-shentu-v2.11.0`|[Example](./shentu)|
 |[sifchain](https://github.com/Sifchain/sifnode)|`v1.4.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-sifchain-v1.4.0`|[Example](./sifchain)|
