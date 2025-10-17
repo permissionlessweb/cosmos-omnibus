@@ -2,12 +2,12 @@
 
 | | |
 |---|---|
-|Version|`v9.0.0`|
+|Version|`v10.1.0`|
 |Binary|`archwayd`|
 |Directory|`.archway`|
 |ENV namespace|`ARCHWAYD`|
 |Repository|`https://github.com/archway-network/archway`|
-|Image|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-archway-v9.0.0`|
+|Image|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-archway-v10.1.0`|
 
 ## Examples
 

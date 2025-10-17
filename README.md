@@ -53,7 +53,7 @@ tagged with the form `$COSMOS_OMNIBUS_VERSION-$PROJECT-$PROJECT_VERSION`.
 |Project|Version|Image| |
 |---|---|---|---|
 |[akash](https://github.com/akash-network/node)|`v0.38.4`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-akash-v0.38.4`|[Example](./akash)|
-|[archway](https://github.com/archway-network/archway)|`v9.0.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-archway-v9.0.0`|[Example](./archway)|
+|[archway](https://github.com/archway-network/archway)|`v10.1.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-archway-v10.1.0`|[Example](./archway)|
 |[assetmantle](https://github.com/AssetMantle/node)|`v1.0.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-assetmantle-v1.0.0`|[Example](./assetmantle)|
 |[atomone](https://github.com/atomone-hub/atomone)|`v2.0.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-atomone-v2.0.0`|[Example](./atomone)|
 |[axelar](https://github.com/axelarnetwork/axelar-core)|`v1.2.1`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-axelar-v1.2.1`|[Example](./axelar)|
