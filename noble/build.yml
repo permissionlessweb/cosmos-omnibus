@@ -6,7 +6,7 @@ services:
         PROJECT: noble
         PROJECT_BIN: nobled
         PROJECT_DIR: .noble
-        VERSION: v5.0.0
+        VERSION: v10.1.2
         REPOSITORY: https://github.com/noble-assets/noble.git
         GOLANG_VERSION: 1.19
     ports:

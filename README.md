@@ -95,7 +95,7 @@ tagged with the form `$COSMOS_OMNIBUS_VERSION-$PROJECT-$PROJECT_VERSION`.
 |[lumnetwork](https://github.com/lum-network/chain)|`v1.6.7`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-lumnetwork-v1.6.7`|[Example](./lumnetwork)|
 |[migaloo](https://github.com/White-Whale-Defi-Platform/migaloo-chain)|`v5.0.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-migaloo-v5.0.0`|[Example](./migaloo)|
 |[neutron](https://github.com/neutron-org/neutron)|`v6.0.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-neutron-v6.0.0`|[Example](./neutron)|
-|[noble](https://github.com/noble-assets/noble)|`v5.0.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-noble-v5.0.0`|[Example](./noble)|
+|[noble](https://github.com/noble-assets/noble)|`v10.1.2`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-noble-v10.1.2`|[Example](./noble)|
 |[omniflixhub](https://github.com/OmniFlix/omniflixhub)|`v6.0.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-omniflixhub-v6.0.0`|[Example](./omniflixhub)|
 |[osmosis](https://github.com/osmosis-labs/osmosis)|`v30.0.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-osmosis-v30.0.0`|[Example](./osmosis)|
 |[panacea](https://github.com/medibloc/panacea-core)|`v2.2.0`|`ghcr.io/akash-network/cosmos-omnibus:v1.2.29-panacea-v2.2.0`|[Example](./panacea)|
